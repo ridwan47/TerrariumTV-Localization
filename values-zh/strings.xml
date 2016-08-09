@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="language_zh_tw">繁體中文</string>
+    <string name="language_zh_cn">簡體中文</string>
+    <string name="language_en">英文</string>
+
+    <string name="action_settings">設定</string>
+
+    <string name="no_data">沒有數據</string>
+    <string name="no_internet">沒有網絡連線</string>
+    <string name="loading">載入中</string>
+    <string name="loading_more">載入更多中…</string>
+    <string name="action_search">搜尋</string>
+    <string name="action_bookmark">我的最愛</string>
+    <string name="action_add_to_bookmark">加到我的最愛</string>
+    <string name="action_refresh">重新整理</string>
+    <string name="action_stop">停止</string>
+    <string name="action_reverse">反轉排序</string>
+    <string name="hint_tv_show_name">劇集名稱</string>
+    <string name="hint_movie_name">電影名稱</string>
+    <string name="subtitle">字幕</string>
+    <string name="unknown">不明</string>
+    <string name="download_count">下載次數 :</string>
+
+    <string name="season">第 %1$d 季</string>
+    <string name="episode">第 %1$d 集</string>
+    <string name="season_episode">%1$s - 第 %2$d 季 第 %3$d 集</string>
+    <string name="season_special">特別季度</string>
+    <string name="search_result_of">\"%s\" 的搜尋結果</string>
+    <string name="getting_subtitle">字幕獲取中… 請稍後…</string>
+    <string name="downloading_subtitle_toast">字幕下載中… 請稍後…</string>
+    <string name="ready_to_play_toast">播放即將開始…</string>
+    <string name="searching_media">搜尋中…</string>
+    <string name="subtitle_language">字幕語言 : </string>
+    <string name="subtitle_download_failed">字幕下載失敗… 請嘗試另一個字幕…</string>
+    <string name="subtitle_extract_failed">字幕解壓失敗… 請嘗試另一個字幕…</string>
+    <string name="permission_grant_toast">請在允許權限後再試一次</string>
+    <string name="sorry">很抱歉…</string>
+    <string name="cant_be_opened_by_other_players">這個片源無法被其他播放器開啟或播放</string>
+
+    <string name="ok">確定</string>
+    <string name="cancel">取消</string>
+    <string name="close">關閉</string>
+    <string name="install">安裝</string>
+    <string name="mxplayer_not_installed">MXPlayer 沒有安裝</string>
+    <string name="mxplayer_not_installed_message">你的裝置上沒有安裝 MXPlayer，Terrarium 需要 MXPlayer 來播放劇集， 按 "安裝" 來安裝 MXPlayer</string>
+    <string name="mxplayer_unable_to_start">MXPlayer 無法啟動</string>
+    <string name="mxplayer_unable_to_start_message">MXPlayer 無法正常啟動，請重新安裝後再試~</string>
+    <string name="close_ad_to_play">請先關閉廣告以便開始影片播放</string>
+
+    <string name="trending">人們在看</string>
+    <string name="most_popular">人氣熱門</string>
+    <string name="most_played">播放最多</string>
+    <string name="most_watched">觀看最多</string>
+    <string name="recently_updated">最近更新</string>
+    <string name="new_shows">新劇集</string>
+    <string name="premieres">新季度</string>
+    <string name="on_the_air">連載中</string>
+    <string name="top_rated">評分最高</string>
+    <string name="now_playing">上映中</string>
+
+    <string name="genre_tv_action_adventure">動作/冒險</string>
+    <string name="genre_tv_sci_fantasy">科幻</string>
+    <string name="genre_tv_mystery">懸疑</string>
+    <string name="genre_tv_drama">戲劇</string>
+    <string name="genre_tv_comedy">喜劇</string>
+    <string name="genre_tv_family">家庭</string>
+    <string name="genre_tv_war_politics">戰爭/政治</string>
+    <string name="genre_tv_reality">真人Show</string>
+    <string name="genre_tv_documentary">紀錄片</string>
+
+    <string name="genre_movie_action">動作</string>
+    <string name="genre_movie_adventure">冒險</string>
+    <string name="genre_movie_thriller">驚悚</string>
+    <string name="genre_movie_sci">科幻</string>
+    <string name="genre_movie_fantasy">奇幻</string>
+    <string name="genre_movie_mystery">懸疑</string>
+    <string name="genre_movie_horror">恐怖</string>
+    <string name="genre_movie_crime">犯罪</string>
+    <string name="genre_movie_drama">戲劇</string>
+    <string name="genre_movie_romance">浪漫</string>
+    <string name="genre_movie_comedy">喜劇</string>
+    <string name="genre_movie_family">家庭</string>
+    <string name="genre_movie_animation">動畫</string>
+    <string name="genre_movie_history">歷史</string>
+    <string name="genre_movie_war">戰爭</string>
+    <string name="genre_movie_documentary">紀錄片</string>
+    <string name="genre_movie_music">音樂</string>
+
+    <string name="pref_general">一般設定</string>
+    <string name="pref_ui">用戶介面</string>
+    <string name="pref_sources_and_resolvers">片源與連結解析器</string>
+    <string name="pref_subtitle">OpenSubtitles 字幕語言</string>
+    <string name="pref_subtitle_chin">SubHD, Makedie 和 Zimiku 字幕語言</string>
+    <string name="pref_others">其他</string>
+
+    <string name="pref_sub_down_path">字幕下載路徑</string>
+    <string name="pref_sub_down_path_des">字幕會被下載到此目錄</string>
+    <string name="pref_media_down_path">影片下載路徑 (只限 Android 內置下載管理員)</string>
+    <string name="pref_choose_media_down_manager">選擇預設下載管理器…</string>
+    <string name="pref_auto_check_update">自動檢查更新</string>
+    <string name="pref_filter_out_non_english_shows">隱藏非英語劇集</string>
+    <string name="pref_filter_out_dead_sources">隱藏無效片源</string>
+    <string name="pref_filter_out_dead_sources_desc">這將會增加片源載入時間</string>
+    <string name="pref_hide_unaired_season">隱藏未推出季度</string>
+    <string name="pref_hide_unaired_episode">隱藏未推出集數</string>
+    <string name="pref_subtitles_filter">過濾不吻合字幕</string>
+    <string name="pref_subtitles_choose_lang">選擇字幕語言…</string>
+    <string name="pref_hide_season_image">隱藏季度圖片</string>
+    <string name="pref_hide_episode_image">隱藏集數圖片</string>
+    <string name="pref_show_menu_source">片源列表單擊顯示選單</string>
+    <string name="pref_poster_size">劇集海報大小</string>
+    <string name="pref_parallel_loading_sources">開啟平行載入片源</string>
+    <string name="pref_parallel_loading_sources_desc">強烈建議開啟! 開啟後片源載入速度提升 5 倍，但有機會在低配置機型造成崩潰</string>
+    <string name="pref_choose_default_nav">選擇預設導航…</string>
+    <string name="pref_choose_default_category_tv_shows">選擇預設劇集分類…</string>
+    <string name="pref_choose_default_category_movies">選擇預設電影分類…</string>
+    <string name="pref_enabled_tv_shows_providers">選擇要啟用的歐美劇片源提供者…</string>
+    <string name="pref_enabled_movies_providers">選擇要啟用的電影片源提供者…</string>
+    <string name="pref_enabled_resolvers">選擇要啟用的連結解析器…</string>
+    <string name="pref_modern_ui">使用新 UI</string>
+    <string name="pref_modern_ui_desc">顯示劇集海報取代劇集橫幅</string>
+    <string name="pref_choose_default_play_action">選擇預設播放選項…</string>
+    <string name="restart_to_see_the_difference">請立即重開 Terrarium 影視 來查看效果</string>
+
+    <string name="download_manager_internal">Android 內置下載管理員</string>
+    <string name="download_manager_external">外置下載管理員</string>
+
+    <string name="action_play">播放</string>
+    <string name="action_play_without_subtitle">不選擇字幕播放</string>
+    <string name="action_download">下載</string>
+    <string name="action_download_with_sub">下載 (連字幕)</string>
+    <string name="action_copy_link">複製串流連結</string>
+    <string name="action_play_via_other_players">使用其他播放器播放</string>
+    <string name="choose_player">選擇播放器…</string>
+    <string name="no_player_was_found">沒有播放器可用</string>
+    <string name="choose_external_download_manager">選擇外置下載器…</string>
+    <string name="no_external_download_manager_was_found">沒有外置下載器可用，請從 Play Store 商店中下載或使用 Android 內置下載管理器</string>
+    <string name="download_started">下載已開始…</string>
+    <string name="download_path_error">下載路徑必需在內置儲存裝置, 請重新指定下載路徑</string>
+    <string name="copied_link">已複製串流連結到剪貼板</string>
+    <string name="link_must_be_played_in_app">很抱歉… 這串流連結只能在 Terrarium 影視 播放…</string>
+
+    <string name="update_title">發現新版本 : %s</string>
+    <string name="update_message">版本 %s : </string>
+    <string name="update_button">更新</string>
+    <string name="update_downloading">下載 %s 更新中</string>
+    <string name="update_failed">更新失敗或終止</string>
+
+    <string name="subtitle_name">字幕名稱 : </string>
+
+    <string name="facebook_page">Facebook 專頁</string>
+
+    <string name="changelog">更新記錄</string>
+    <string name="choose_browser">選擇瀏覽器</string>
+
+    <string name="disclaimer">免責聲明</string>
+    <string name="accept">接受</string>
+    <string name="decline">拒絕</string>
+
+    <string name="error">發生未知錯誤，請再試一次</string>
+    <string name="please_wait">請稍候…</string>
+
+    <string name="recaptcha_verify">你需要進行 reCaptcha 驗證來獲取來自 %s 的片源</string>
+    <string name="verify">驗證</string>
+
+    <string name="size_large">大</string>
+    <string name="size_normal">中</string>
+    <string name="size_small">小</string>
+
+    <string name="show_details_overview">簡介</string>
+    <string name="show_details_season">季度</string>
+    <string name="media_suggestion">更多推薦</string>
+    <string name="no_synopsis">沒有摘要</string>
+    <string name="loading_ratings">載入評分中…</string>
+    <string name="no_ratings">沒有評分</string>
+    <string name="meta_in_production">製作中</string>
+    <string name="meta_returning_series">待續</string>
+    <string name="meta_ended">已完結</string>
+    
+    <string name="navigation_drawer_open">開啟</string>
+    <string name="navigation_drawer_close">關閉</string>
+
+    <string name="tv_shows">歐美劇</string>
+    <string name="movies">電影</string>
+
+    <string name="play_trailer">播放預告片</string>
+    
+    <!-- DO NOT EDIT THE STRINGS BELOW -->
+    <string name="app_name">Terrarium 影視</string>
+    <string name="about_app_title">關於 Terrarium 影視</string>
+    <string name="about_app_message">Terrarium 影視 (版本 : %s)\nPeter Chan (NitroXenon) 製作\n\n官方網站 : http://terrariumtv.com\n\n官方 Facebook 專頁 : http://fb.com/terrariumtv\n\nReddit : /r/TerrariumTV\n\nTerrarium 影視 是多媒體共享播放彙整軟體，用以彙整網路上公開的影片位址，影片及照片其版權皆屬於原著作人所有。本程式和本人將不會承擔任何法律責任。</string>
+    <string name="official_website">terrariumtv.com</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8258064054338881/3882561855</string>
+</resources>
