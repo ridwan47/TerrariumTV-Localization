@@ -12,3 +12,8 @@ This repo contains the strings.xml files of Terrarium TV. Feel free to open pull
 
 ## Reminder
 Remember DO NOT edit the strings below the line ```<!-- DO NOT EDIT THE STRINGS BELOW -->```
+
+## Resources
+[Supporting Different Languages](https://developer.android.com/training/basics/supporting-devices/languages.html)  
+[What is the list of supported languages/locales on Android?](http://stackoverflow.com/questions/7973023/what-is-the-list-of-supported-languages-locales-on-android)  
+[List of ISO 639-1 codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
